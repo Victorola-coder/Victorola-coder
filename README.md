@@ -1,11 +1,7 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Victor Olatunji</h1> 
   <p align="center"> I am a Software Developer focused on Frotend (Javascript/React + TailwindCss)</p>
-  <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer
-.  I’m a 17 year-old Web Developer
-.  Lover of Open Source contribution
-.  I’m currently into Frontend Development, with the use of HTML, CSS, and React.js
-.  I’m looking to collaborate on any project..</p>
+  <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time</p>
 </p>
 
 <p align='center'>
