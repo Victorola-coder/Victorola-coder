@@ -2,8 +2,9 @@
   <h1 align='center'>Hi there 👋🏾, I'm Victor Olatunji</h1> 
   <p align="center"> I am a Software Developer focused on Frotend (Javascript/React + TailwindCSS)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
+  <p align='center> Reach out to me here 👇</p>
 </p>
-<p align='center> Reach out to me here 👇</p>
+
 <p align='center'>
 <a href="https://wa.me/2349075789680?text=Hello+Victor" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
