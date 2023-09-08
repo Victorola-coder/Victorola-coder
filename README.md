@@ -20,8 +20,8 @@
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/victorola-coder" />
   </a>&nbsp;&nbsp;
+ 
   <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
-  
   
   <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=victorola-coder&show_icons=true&theme=tokyonight&line_height=25">
