@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  <a href="https://komarev.com/ghpvc/?username=victorola-coder&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=victorola-coder&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=victorola-coder&label=PROFILE+VIEWS&style=for-the-badge&color=green" />
   </a>&nbsp;&nbsp;
   </a>&nbsp;&nbsp;
  <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
