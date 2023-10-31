@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align='center'>Hi there!👋🏾 I'm Victor Olatunji</h1> 
+  <h1 align='center'>Hi there!👋🏾 I'm VickyJay⚡</h1> 
   <p align="center"> I am a Software Developer focused on Frontend (Javascript/React/Typescript/NextJs + TailwindCSS)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
   <p align='center'> Reach out to me here 👇</p>
