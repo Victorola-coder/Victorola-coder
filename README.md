@@ -32,4 +32,10 @@
   <p align="left">
    <img src = "http://github-readme-streak-stats.herokuapp.com?user=victorola-coder&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
 </p>
+  <p align="left">
+ <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25507%26project%3Dshowmeelove%26in=0">
+</p>
+  <p align="left">
+ [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25507%26project%3Dshowmeelove%26in=0)](https://codetime.dev)
+</p>
 </p>
